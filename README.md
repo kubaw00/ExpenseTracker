@@ -1,2 +1,3 @@
 # ExpenseTracker
-Javascript Aplication
+Javascript Aplication  https://kubaw00.github.io/ExpenseTracker/
+
